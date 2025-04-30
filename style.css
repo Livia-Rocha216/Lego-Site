@@ -1,0 +1,141 @@
+.nav{
+background: linear-gradient(to right, #0000CD, #7c4dff);
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f5;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 18px;
+}
+
+header {
+    background: linear-gradient(to right, #0000CD, #7c4dff);
+    color: white;
+    padding: 3rem 1rem;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+header p.subtitle {
+    font-size: 1.2rem;
+    margin: 0.2rem 0;
+    font-weight: 300;
+}
+
+header .date {
+    background-color: #4169E1;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    display: inline-block;
+    margin-top: 1rem;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+nav {
+    margin: 1rem 0;
+    background-color:linear-gradient(to right, #0000CD, #7c4dff);
+    padding: 1rem 0;
+
+}
+
+nav a {
+    display: inline-block;
+    margin: 0 1rem;
+    text-decoration: none;
+    color: #4b0082;
+    font-weight: bold;
+}
+
+section {
+    background-color: white;
+    margin: 1rem auto;
+    padding: 1.5rem;
+    max-width: 80%;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+h2,
+h3 {
+    color: #4b0082;
+}
+
+footer {
+    background:linear-gradient(to right, #4b0082, #7c4dff);
+    margin: 0;
+    font-size: 0.9rem;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+}
+
+iframe {
+    width: 100%;
+    max-width: 600px;
+    height: 450px;
+    border: 0;
+}
+
+.evento-foto img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+a.botao-confirmar {
+    color: #4b0082;
+    background-color: #ffd54f;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 1rem;
+    font-weight: bold;
+}
+
+.equipes-container {
+    text-align: center;
+}
+
+.equipe-cardao {
+    display: inline-block;
+    width: 80%;
+    margin: 1%;
+    background-color: #e3f2fd;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    vertical-align: top;
+}
+
+.equipe-card img {
+    width: 100%;
+    border-radius: 6px;
+}
+
+.equipe-card h4 {
+    margin: 0.5rem 0;
+}
+.equipe-card {
+    display: inline-block;
+    width: 200px;
+    margin: 10px;
+    background-color: #eef6ff;
+    padding: 0;
+    border-radius: 10px;
+}
+
+.equipe-card img {
+    width: 100%;
+    border-radius: 6px;
+}
+
+.equipe-card h4 {
+    margin: 0.5rem 0;
+}
