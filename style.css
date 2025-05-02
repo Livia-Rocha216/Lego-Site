@@ -105,13 +105,20 @@ a.botao-confirmar {
 
 .equipe-cardao {
     display: inline-block;
-    width: 80%;
+    width: 70%;
     margin: 1%;
     background-color: #e3f2fd;
-    padding: 1rem;
-    border-radius: 10px;
+    padding: 95px;
+    border-radius: 5px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     vertical-align: top;
+}
+.equipe-cardao img {
+    width: 80%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .equipe-card img {
