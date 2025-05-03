@@ -117,7 +117,7 @@ a.botao-confirmar {
     width: 80%;
     height: auto;
     display: flex;
-    align-items: center;
+    align-content: center;
     justify-content: center;
 }
 
