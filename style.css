@@ -1,5 +1,5 @@
 .nav{
-background: linear-gradient(to right, #0000CD, #7c4dff);
+background: linear-gradient(to right, #00006f, #4e62fd);
 }
 body {
     font-family: Arial, sans-serif;
@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background: linear-gradient(to right, #0000CD, #7c4dff);
+    background: linear-gradient(to right, #00006f, #4e62fd);
     color: white;
     padding: 3rem 1rem;
 }
@@ -39,7 +39,7 @@ header .date {
 
 nav {
     margin: 1rem 0;
-    background-color:linear-gradient(to right, #0000CD, #7c4dff);
+    background-color:linear-gradient(to right, #00006f, #4e62fd);
     padding: 1rem 0;
 
 }
@@ -48,7 +48,7 @@ nav a {
     display: inline-block;
     margin: 0 1rem;
     text-decoration: none;
-    color: #4b0082;
+    color: #fafafa;
     font-weight: bold;
 }
 
@@ -63,11 +63,11 @@ section {
 
 h2,
 h3 {
-    color: #4b0082;
+    color: #1e002d;
 }
 
 footer {
-    background:linear-gradient(to right, #4b0082, #7c4dff);
+    background:linear-gradient(to right, #000046, #334bff);
     margin: 0;
     font-size: 0.9rem;
     color: white;
@@ -88,17 +88,6 @@ iframe {
     display: block;
 }
 
-a.botao-confirmar {
-    color: #4b0082;
-    background-color: #ffd54f;
-    padding: 10px 20px;
-    border-radius: 5px;
-    text-decoration: none;
-    display: inline-block;
-    margin-top: 1rem;
-    font-weight: bold;
-}
-
 .equipes-container {
     text-align: center;
 }
@@ -112,13 +101,15 @@ a.botao-confirmar {
     border-radius: 5px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     vertical-align: top;
+    color: #1c0030;
 }
 .equipe-cardao img {
-    width: 80%;
+    width: 99%;
     height: auto;
     display: flex;
     align-content: center;
     justify-content: center;
+    
 }
 
 .equipe-card img {
@@ -136,6 +127,7 @@ a.botao-confirmar {
     background-color: #eef6ff;
     padding: 0;
     border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .equipe-card img {
