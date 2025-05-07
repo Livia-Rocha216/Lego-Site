@@ -82,6 +82,10 @@ iframe {
     border: 0;
 }
 
+.color-white{
+    color: white;
+}
+
 .evento-foto img {
     width: 100%;
     height: auto;
