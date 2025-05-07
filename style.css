@@ -127,11 +127,12 @@ iframe {
 .equipe-card {
     display: inline-block;
     width: 200px;
-    margin: 10px;
+    margin: 30px;
     background-color: #eef6ff;
-    padding: 0;
+    padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    height: 400px;
 }
 
 .equipe-card img {
